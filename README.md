@@ -1,0 +1,4 @@
+rdf
+===
+
+RD MVC structure
